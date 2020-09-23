@@ -1,10 +1,17 @@
 # MIRANDA
+![home](miranda.jpg)
+
+## :trophy: Best Use of Google Cloud @ Hack'20
+## :trophy: Active Tooling Category Winner @ DuckHacks for Social Good
 
 Your one stop for police stops. An app to counter police brutality.
 
 ## Demo
 
 [YouTube demo](https://youtu.be/jtJp1VVpyNQ)
+
+
+![home](user_flow.png)
 
 ## Inspiration
 As the Black Lives Matter movement becomes more prevalent and as police brutality case leakings skyrocket, it can be scary to get pulled over by a police and anticipate what the interaction will be like. According to the Stanford Open Policing Project, police officers make more than 50,000 traffic stops.
