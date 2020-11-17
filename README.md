@@ -1,10 +1,11 @@
 # MIRANDA
 ![home](miranda.jpg)
 
+Your one stop for police stops. An app to counter police brutality.
+
 ## :trophy: Best Use of Google Cloud @ Hack'20
 ## :trophy: Active Tooling Category Winner @ DuckHacks for Social Good
 
-Your one stop for police stops. An app to counter police brutality.
 
 ## Demo
 
